@@ -1,5 +1,5 @@
 # Mini_CANtest
-CAN0 send data to CAN1
+can0 send data to can1 in 125K
 ```bash
 sudo ./canTest.sh
 ```
